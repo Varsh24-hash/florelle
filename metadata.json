@@ -1,0 +1,7 @@
+{
+  "name": "Florelle - Industrial Chic Bouquets",
+  "description": "An exclusive boutique for handcrafted industrial-themed flowers and artisanal bouquets designed for the rugged yet refined.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
